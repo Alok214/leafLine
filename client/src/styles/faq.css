@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+}
+.box1 img{
+    width:100%;
+    margin-top: 15%;
+}
+.box2 h4{
+    background: #008000;
+    text-align: justify;
+}
+.box2 h1{
+    background: #212529;
+    color: #ffffff;
+}
